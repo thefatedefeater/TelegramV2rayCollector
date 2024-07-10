@@ -1,10 +1,10 @@
 {
-    "date": "2024-07-10 23:52:30",
+    "date": "2024-07-11 00:51:04",
     "points": {
-        "OutlineVpnOfficial": 154.84135768080876,
-        "kingofilter": 104.94798224380327,
-        "VmessProtocol": 103.8186864496907,
-        "proxy_mtm": 51.88745001742166,
-        "DeamNet_Proxy": 37.953332140291536
+        "OutlineVpnOfficial": 6.062990620726465,
+        "proxy_mtm": 4.081334296968804,
+        "kingofilter": 4.04114710463025,
+        "DeamNet_Proxy": 2.0000019169169843,
+        "VmessProtocol": 1.0076171453579608
     }
 }

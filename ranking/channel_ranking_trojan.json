@@ -1,11 +1,10 @@
 {
-    "date": "2024-07-10 23:52:30",
+    "date": "2024-07-11 00:51:04",
     "points": {
-        "PrivateVPNs": 198.34560435496365,
-        "DirectVPN": 117.08309471422857,
-        "oneclickvpnkeys": 55.590020245190196,
-        "VmessProtocol": 27.51423352046239,
-        "kingofilter": 25.566176772932987,
-        "ConfigsHUB": 6.100361347064327
+        "PrivateVPNs": 8.946931644692912,
+        "DirectVPN": 6.301194361978202,
+        "oneclickvpnkeys": 3.3705390680325684,
+        "kingofilter": 1.0466673598668164,
+        "VmessProtocol": 1.0349251286918133
     }
 }
