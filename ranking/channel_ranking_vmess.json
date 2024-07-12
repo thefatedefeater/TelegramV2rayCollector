@@ -1,20 +1,20 @@
 {
-    "date": "2024-07-12 13:51:29",
+    "date": "2024-07-12 14:50:04",
     "points": {
-        "ROMAX_VPN": 131.53384452331142,
-        "v2Line": 121.74944035379718,
-        "Hope_Net": 94.9926554096514,
-        "oneclickvpnkeys": 79.61811654251876,
-        "mftizi": 73.70823738123494,
-        "DailyV2RY": 73.60655738460592,
-        "prrofile_purple": 69.83444580119975,
-        "yaney_01": 67.63008706291443,
-        "FreakConfig": 65.4907469148289,
-        "kingofilter": 44.570531635414696,
-        "vless_vmess": 43.88530930491681,
-        "DeamNet_Proxy": 26.67397815729226,
+        "ROMAX_VPN": 136.9127293711,
+        "v2Line": 131.6014184573776,
+        "Hope_Net": 101.80206669160289,
+        "oneclickvpnkeys": 86.0157945119219,
+        "DailyV2RY": 80.25725681512411,
+        "mftizi": 78.00429368522812,
+        "prrofile_purple": 75.89926084913897,
+        "yaney_01": 73.01966531758055,
+        "FreakConfig": 70.23872127936124,
+        "kingofilter": 48.56554668056104,
+        "vless_vmess": 47.4616840054168,
+        "DeamNet_Proxy": 28.694514507668597,
+        "v2rayng_config_amin": 19.013739675946958,
         "ConfigsHUB": 17.34940429610912,
-        "v2rayng_config_amin": 17.238545639638662,
-        "V2rayCollectorDonate": 13.509989872855712
+        "V2rayCollectorDonate": 14.624015468469562
     }
 }
