@@ -115,8 +115,8 @@
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣"
+                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @ConfigsHUB | NL🇳🇱 | 0️⃣2️⃣"
             ]
         },
         {
@@ -132,8 +132,8 @@
                 "رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣1️⃣",
                 "رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣"
+                "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @ConfigsHUB | NL🇳🇱 | 0️⃣2️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
@@ -329,11 +329,11 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @ConfigsHUB | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "51.44.45.145",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
+            "server": "104.17.215.2",
+            "server_port": 443,
+            "password": "669d0ac7b5b64ebbb1abb75d5d540a5c",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -341,20 +341,27 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
+                "server_name": "jobscareerforstudent.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
                 }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/6b777a91",
+                "headers": {
+                    "Host": "jobscareerforstudent.com"
+                }
             }
         },
         {
-            "tag": "رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣4️⃣",
+            "tag": "رایگان | TROJAN | @ConfigsHUB | NL🇳🇱 | 0️⃣2️⃣",
             "type": "trojan",
-            "server": "13.36.191.215",
-            "server_port": 22222,
-            "password": "telegram-id-directvpn",
+            "server": "hidd2.sassanidempire.com",
+            "server_port": 443,
+            "password": "19c80ce9-0935-41b9-b077-277621316a87",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -362,11 +369,18 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
+                "server_name": "hidd2.sassanidempire.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/VOkcnRNFk1Gfjd07ui73LZgwx8s",
+                "headers": {
+                    "Host": "hidd2.sassanidempire.com"
                 }
             }
         },
