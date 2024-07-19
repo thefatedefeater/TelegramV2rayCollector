@@ -1,8 +1,9 @@
 {
-    "date": "2024-07-19 20:51:22",
+    "date": "2024-07-19 21:56:08",
     "points": {
-        "OutlineVpnOfficial": 145.5768289496028,
-        "VmessProtocol": 11.04575669401909,
-        "DeamNet_Proxy": 6.04636270964833
+        "OutlineVpnOfficial": 150.34425497499396,
+        "VmessProtocol": 14.049997046359708,
+        "DeamNet_Proxy": 6.04636270964833,
+        "proxy_mtm": 4.0531245752770495
     }
 }
