@@ -1,9 +1,10 @@
 {
-    "date": "2024-07-26 14:51:00",
+    "date": "2024-07-26 16:05:21",
     "points": {
-        "OutlineVpnOfficial": 94.74788237046276,
-        "FAKEOFTVC": 43.615709143895415,
-        "VmessProtocol": 14.301996312256533,
-        "DeamNet_Proxy": 11.115595264509004
+        "OutlineVpnOfficial": 102.7479806089439,
+        "FAKEOFTVC": 46.73947537302217,
+        "VmessProtocol": 15.326317668148628,
+        "DeamNet_Proxy": 11.115595264509004,
+        "proxy_mtm": 7.164280016032767
     }
 }
